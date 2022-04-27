@@ -1,0 +1,30 @@
+* {
+  padding: 20; }
+
+footer {
+  background-color: aquamarine; }
+  footer h3 {
+    font-family: 'Courier New', Courier, monospace; }
+
+header {
+  background-color: lightblue;
+  text-align: center;
+  padding: 10px; }
+  header h1 {
+    color: black;
+    font-weight: normal;
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Raleway', sans-serif; }
+
+main {
+  text-align: center;
+  background-color: lightgray; }
+  main h3 {
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif; }
+  main ul {
+    color: brown;
+    align-items: center; }
+  main p {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; }
